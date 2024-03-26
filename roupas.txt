@@ -1,0 +1,208 @@
+apron
+armor
+chinese clothes
+changpao
+china dress
+fengguan
+hanfu
+longpao
+bikesuit
+racing suit
+bodystocking
+bodysuit
+jumpsuit
+short jumpsuit
+leotard
+strapless leotard
+playboy bunny
+swimsuit
+competition swimsuit
+slingshot swimsuit
+school swimsuit
+bikini
+leaf bikini
+string bikini
+micro bikini
+side-tie bikini bottom
+lowleg bikini
+thong bikini
+venus bikini
+sports bikini
+tankini
+criss-cross halter
+swim briefs
+jammers
+legskin
+rash guard
+robe
+bathrobe
+open robe
+kesa
+romper
+sarong
+tunic
+unitard
+tangzhuang
+dirndl
+blouse
+frilled shirt
+sleeveless shirt
+bustier
+crop top
+camisole
+cardigan
+cardigan vest
+coat
+duffel coat
+fur coat
+fur-trimmed coat
+long coat
+overcoat
+peacoat
+raincoat
+yellow raincoat
+transparent raincoat
+trench coat
+winter coat
+compression shirt
+corset
+dress (see tag group:dress)
+halterneck
+criss-cross halter
+halterneck
+hoodie
+jacket
+blazer
+cropped jacket (bolero)
+letterman jacket
+safari jacket
+suit jacket
+sukajan
+trench coat
+poncho
+raglan sleeves (see tag group:sleeves)
+sash
+shoulder sash
+stole
+shirt
+collared shirt
+dress shirt
+off-shoulder shirt
+sleeveless shirt
+striped shirt
+t-shirt
+shrug
+surcoat
+sweater
+pullover
+turtleneck
+sleeveless turtleneck
+sweater dress
+ribbed sweater
+aran sweater
+tabard
+tailcoat
+tank top
+stringer
+tube top
+bandeau
+underbust
+vest
+sweater vest
+waistcoat
+japanese clothes
+fundoshi
+yamakasa
+geta
+hakama
+hakama skirt
+hakama short skirt
+hakama pants
+kimono
+furisode
+layered kimono
+short kimono
+uchikake
+yukata
+haori
+happi
+chanchanko
+dotera
+hanten
+kimono skirt
+miko
+nontraditional miko
+sarashi
+Midriff sarashi
+Chest sarashi
+Budget sarashi
+Undone sarashi
+straw cape
+mino boushi
+tabi
+tasuki
+korean clothes
+hanbok
+vietnamese dress
+armored dress
+bikini armor
+band uniform
+cape
+capelet
+hood
+shoulder cape
+cassock
+cheerleader
+costume
+ghost costume
+gym uniform
+buruma
+habit
+harem outfit
+loincloth
+hazmat suit
+hev suit
+kigurumi
+animal costume
+bear costume
+boar costume
+cat costume
+cow costume
+dog costume
+monkey costume
+mouse costume
+panda costume
+penguin costume
+pig costume
+rabbit costume
+reindeer costume
+seal costume
+sheep costume
+tiger costume
+maid
+miko
+nontraditional miko
+military uniform
+overalls
+pajamas
+pilot suit
+plugsuit
+sailor
+santa costume
+school uniform
+serafuku
+sailor dress
+gakuran
+meiji schoolgirl uniform
+shosei
+suit
+business suit
+pant suit
+skirt suit
+tuxedo
+track suit
+sweatpants
+sweatshirt
+tutu
+waitress
+cowboy western

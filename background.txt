@@ -1,0 +1,162 @@
+bathroom
+bathtub
+toilet stall
+shower
+bedroom
+hotel room
+church
+classroom
+school
+living room
+bed room
+kitchen
+restaurant
+forest
+river
+lake
+mountain
+hell
+underworld
+city
+field
+farm
+office
+dark tunnel
+desert
+fantasy
+mushroom forest
+rose garden
+flower garden
+orchard
+messy room
+otaku room
+cafeteria
+changing room
+classroom
+clubroom
+conservatory
+courtroom
+dining room
+dressing room
+dungeon
+prison cell
+fitting room
+gym
+locker room
+gym storeroom
+
+amusement park
+carousel
+ferris wheel
+roller coaster
+aqueduct
+bridge
+rope bridge
+wooden bridge
+canal
+city
+floating city
+rural
+town
+village
+dam
+dock
+drydock
+control tower
+hangar
+runway
+apartment
+aquarium
+arcade
+bar
+izakaya
+tavern
+cityscape
+aqua 
+beige 
+black 
+blue 
+brown 
+snowflake
+argyle 
+checkered 
+food-themed
+halftone
+honeycomb
+paw print
+plaid
+polka dot
+simple
+snowflake
+spiral 
+strawberry
+striped
+sunburst
+gradient
+multicolored
+rainbow
+heaven condition
+two-tone
+green
+grey
+lavender
+orange
+pink
+purple
+white 
+yellow 
+everyone
+absolutely everyone
+landscape
+nature
+no humans
+off-topic
+scenery
+still life
+barn
+bunker
+bus stop
+bowling alley
+cafe
+casino
+castle
+floating castle
+church
+shipyard
+garden
+graveyard
+jetty
+field
+flower field
+rice paddy
+wheat field
+fountain
+harbor
+
+shore
+canyon
+cave
+cliff
+desert
+oasis
+forest
+bamboo forest
+glacier
+hill
+island
+floating island
+jungle
+infirmary
+kitchen
+laboratory
+library
+living room
+office
+cubicle
+pool
+stage
+staff room
+storage room
+armory
+closet
+workshop
